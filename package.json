@@ -1,0 +1,18 @@
+{
+  "name": "tea-kiemtien-20",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aetriess1f/first-repository.git"
+  }
+}
